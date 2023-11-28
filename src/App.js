@@ -1,9 +1,10 @@
-import './App.css';
+import './SpinningCube.scss';
+import SpinningCube from './SpinningCube';
 
 function App() {
   return (
     <div className="App">
-      
+      <SpinningCube />
     </div>
   );
 }
